@@ -84,6 +84,13 @@ Whiteboards and everything else with can help you lead Event Modeling workshop.
 - [Modellution (beta)](https://www.modellution.com/)
 
 
+## 🧑🏻‍💻 Code examples
+
+Repositories with software implementations from Event Modeling
+
+// TODO: WAITING FOR YOUR CONTRIBUTIONS
+
+
 ## 💬 Online Communities
 
 - [Event Modeling Slack](https://join.slack.com/t/eventmodeling/shared_invite/enQtNzE0NjAyMjMwNjQ2LTY1NjgzZWI4ZjE0NmM0MWU0OGQwNjA3ZTZkZWViYWUzMTRjZWViYzdhZWMzNWMwZjQyM2VhMWVjZWQ5NjNjMjU) - leaded by Adam Dymitruk
