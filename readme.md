@@ -18,6 +18,9 @@ Event Modeling history from [HERE](https://eventmodeling.org/about/).
 
 > 🚀 Go ahead to the official web page here: 🌐 https://eventmodeling.org
 
+## Getting Started
+1. Read official introduction from Adam Dymitruk: [Event Modeling: What is it?](https://eventmodeling.org/posts/what-is-event-modeling/)
+2. See Event Modeling Cheat Sheet by Sebastian Bortz: [EventModeling Cheat Sheet](https://eventmodeling.org/posts/event-modeling-cheatsheet/)
 
 ## 📕 Articles
 
@@ -89,6 +92,7 @@ Whiteboards and everything else with can help you lead Event Modeling workshop.
 Repositories with software implementations from Event Modeling
 
 // TODO: WAITING FOR YOUR CONTRIBUTIONS
+- [fmodel | Restaurant System](https://github.com/fraktalio/fmodel-demos)
 
 
 ## 💬 Online Communities
