@@ -85,7 +85,9 @@ Whiteboards and everything else with can help you lead Event Modeling workshop.
       - [Event Modeling](https://draft.io/example/event-modeling)
 - [oNote](https://www.onote.com/)
 - [Modellution (beta)](https://www.modellution.com/)
-
+- [prooph BOARD](https://prooph-board.com/)
+  - Examples:
+    - [Event Modeling](https://free.prooph-board.com/inspectio/board/fa333058-226b-424c-b48a-8663c44fb0ea)
 
 ## 🧑🏻‍💻 Code examples
 
