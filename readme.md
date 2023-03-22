@@ -58,6 +58,7 @@ Event Modeling history from [HERE](https://eventmodeling.org/about/).
 ## 🎙️ Podcasts
 
 - [ADD DOT | Event Modeling and Event Sourcing](https://play.acast.com/s/add-dot/adam-dymitruk) - host: Vaughn Vernon
+- [semaphoreci.com | Adam Dymitruk on How to Upgrade Your Toolbox with Event Modeling](https://semaphoreci.com/blog/adam-dymitruk-event-modeling)
 - [devsession.pl | Event Modeling – Rafał Maciąg](https://devsession.pl/event-modeling/) (🇵🇱 Polish) - host: Grzegorz
   Kotfis
 
@@ -87,7 +88,7 @@ Whiteboards and everything else with can help you lead Event Modeling workshop.
 - [Modellution (beta)](https://www.modellution.com/)
 - [prooph BOARD](https://prooph-board.com/)
   - Examples:
-    - [Event Modeling](https://free.prooph-board.com/inspectio/board/fa333058-226b-424c-b48a-8663c44fb0ea)
+    - [Event Modeling | Hotel example](https://free.prooph-board.com/inspectio/board/fa333058-226b-424c-b48a-8663c44fb0ea)
 
 ## 🧑🏻‍💻 Code examples
 
