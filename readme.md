@@ -37,6 +37,7 @@ Event Modeling history from [HERE](https://eventmodeling.org/about/).
 - [InfoQ | Interview with Event Modeling Founder - Adam Dymitruk](https://www.infoq.com/news/2020/09/adameventmodeling/)
 - [Goeleven.com | WHAT IS EVENT MODELING? (WITH EXAMPLE)](https://www.goeleven.com/blog/event-modeling/)
 - [Event Modeling - A New Approach to Software Design](https://www.infoq.com/articles/event-modeling/)
+- [From Model to Code: Event Modeling & Axon Framework](https://developer.axoniq.io/w/from-model-to-code-event-modeling-axon-framework)
 
 ## 📺 Videos
 
