@@ -98,6 +98,9 @@ Repositories with software implementations from Event Modeling
 // TODO: WAITING FOR YOUR CONTRIBUTIONS
 - [fmodel | Restaurant System](https://github.com/fraktalio/fmodel-demos)
 
+## 💡 Case studies
+
+- [Wimma - Event utilization in the start-up world](https://www.linkedin.com/pulse/wimma-event-utilization-start-up-world-per-%25C3%25B6kvist/) - Per Ökvist
 
 ## 💬 Online Communities
 
