@@ -110,7 +110,7 @@ Repositories with software implementations from Event Modeling
 ## Courses & Workshops
 
 Please mark if they are free (🆓) or paid (💰).
-
+- [Introduction to Event Modeling by Bobby Calderwood](https://developer.confluent.io/courses/event-modeling) 🆓
 - [Vaughn Vernon’s IDDD Workshop Series | Event Modeling & Event Sourcing ](https://kalele.io/training/event-modeling-event-sourcing/)(💰 latest price: ???)
 
 
