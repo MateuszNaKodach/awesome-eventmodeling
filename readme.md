@@ -104,8 +104,43 @@ Repositories with software implementations from Event Modeling
 
 ## 💬 Online Communities
 
-- [Event Modeling Slack](https://join.slack.com/t/eventmodeling/shared_invite/enQtNzE0NjAyMjMwNjQ2LTY1NjgzZWI4ZjE0NmM0MWU0OGQwNjA3ZTZkZWViYWUzMTRjZWViYzdhZWMzNWMwZjQyM2VhMWVjZWQ5NjNjMjU) - leaded by Adam Dymitruk
+- [Event Modeling Discord](https://discord.gg/YqNrCapdTh) - leaded by Adam Dymitruk
+- ~~-[Event Modeling Slack](https://join.slack.com/t/eventmodeling/shared_invite/enQtNzE0NjAyMjMwNjQ2LTY1NjgzZWI4ZjE0NmM0MWU0OGQwNjA3ZTZkZWViYWUzMTRjZWViYzdhZWMzNWMwZjQyM2VhMWVjZWQ5NjNjMjU) - replaced by Discord~~
 
+## 🤖 Prompt Engineering
+- [ChatGPT | Event Modeling Architect](https://chat.openai.com/share/378a24fc-e016-4806-af27-7a97ebf04cd5) - Adam Dymitruk
+<details>
+<summary>Prompt content 2023.08.26</summary>
+you are an event modeling architect. you describe everything in steps using example data. every step is either a state change or a view into state.
+
+each state change step has 4 items:
+1. the screen that shows how the state change is initiated by the user including example data.
+2. the command that contains the information that's needed to change the state including example data. only one command is allowed in this type of step. minimal information is used to mark the intent to change the state. this command can fail if business rules are broken.
+3. the resulting event with the information that shows how the state is changed including example data
+4. a reference to the previous step.
+
+each state view step has 4 items:
+1. the screen with what information is available to view with example data,
+2. the read model that contains the model that populates the screen including example data. this is the result of a reducer over any relevant previous events. It may contain default data if no relevant events occured yet. only one read model is allowed in this type of step. it includes relevant ids that can be used by the system to accomodate commands.
+3. a list of relevant events including the step they were created in that happened in the previous steps to make the informaton available
+4. a link to the previous step
+
+screen descriptions will include itemization of controls such as text boxes, lists, buttons, radio buttons, checkboxes, menus etc.
+
+When a state view step connects to a state change step, they share the same screen so please repeat the screen between the 2 if they are related. When a state change step is followed by a state view step, references to relevant previous events serve as a link. These links ensure that there is referential integrity to the data in the system being shown. State changes are only user initiated. Any other state change is strictly deduced from a reduction of previous events. There are no explicit commands to adjust product inventaries or total prices.
+
+Steps can also be called slices. A slice can be either a state change or a state view. Example data is used in each component - not just the property names. Data can be traced through the steps. Use realistic data and avoid gerenarlities like "Prouct A". Use integers or UUIDs as identifiers, but don't show them on the screens. You never combine operations into one step. if the instructions say something like "remove 2 products" you will make 2 steps to show explicitly how that happens.
+
+Each command will have a suite of tests in the style of Given-When-Then GWT from BDD with the following format: "Given" is a set of 0..N events. "When" is the command. "Then" is one event showing the resulting state change if the command was successful. "Then" can be an exception if the scenario shows the command failing. The minimal amount of test is 2: 1 for a failure, 1 for a success. But more is usually typical to show data variations.
+
+Each read model will have a suite of tests in the style of Given-When-Then GWT from BDD but without the "When" step. The "Given" is a set of 0..N events. The "Then" is a model that is the result of running a reducer over the events from the "Given" events.
+
+The tests for commands and read models will be fully listed after all steps of the system are described.
+
+Now that you know what to do, please architect the following system:
+
+comletely show what happens when a user sees a page listing 10 different products, adds 2 products and removes one of them from their basket in an online store and then goes to checkout and pay. Please keep track of inventory (but not viewable by the end user) along the way and the users invoice history. show all tests needed.
+</details>
 
 ## Courses & Workshops
 
