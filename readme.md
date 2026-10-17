@@ -22,6 +22,10 @@ Event Modeling history from [HERE](https://eventmodeling.org/about/).
 1. Read official introduction from Adam Dymitruk: [Event Modeling: What is it?](https://eventmodeling.org/posts/what-is-event-modeling/)
 2. See Event Modeling Cheat Sheet by Sebastian Bortz: [EventModeling Cheat Sheet](https://eventmodeling.org/posts/event-modeling-cheatsheet/)
 
+## 📖 Books
+
+- [Understanding Eventsourcing - Planning and Implementing scalable Systems with Eventmodeling and Eventsourcing](https://leanpub.com/eventmodeling-and-eventsourcing) - Martin Dilger
+
 ## 📕 Articles
 
 - [eventmodeling.org | Event Modeling: What is it?](https://eventmodeling.org/posts/what-is-event-modeling/) - Adam Dymitruk
