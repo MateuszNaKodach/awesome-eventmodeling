@@ -90,6 +90,9 @@ Whiteboards and everything else with can help you lead Event Modeling workshop.
 - [prooph BOARD](https://prooph-board.com/)
   - Examples:
     - [Event Modeling | Hotel example](https://free.prooph-board.com/inspectio/board/fa333058-226b-424c-b48a-8663c44fb0ea)
+- [Cratis Screenplay](https://github.com/Cratis/Screenplay) - Text-based language for event models (commands, events, read models and Given/When/Then specifications) in `.play` files
+  - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=cratis.screenplay) - Renders the model as an event-model board
+  - [Cratis Studio (beta)](https://cratis.studio) - Collaborative event-modeling platform
 
 ## 🧑🏻‍💻 Code examples
 
