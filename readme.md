@@ -75,7 +75,7 @@ Whiteboards and everything else with can help you lead Event Modeling workshop.
     - Templates:
         - [eventmodeling.org | Event Modeling Cheat Sheet](https://miro.com/app/board/uXjVOia7ydY=/?share_link_id=194982904636)
     - Examples:
-        - [eventmodeling.org | Event Modeling Tutorial: Time Tracking System](https://miro.com/app/board/o9J_lNYWcsI=/) 
+        - [eventmodeling.org | Event Modeling Tutorial: Time Tracking System](https://miro.com/app/board/o9J_lNYWcsI=/?share_link_id=835359781615) 
         - [eventmodeling.org | TODO List](https://eventmodeling.org/event-modeling.rtb)
         - [mrdev.pl | Krzysztof Owsiany | CatchTheFlow](https://miro.com/app/board/o9J_kwQS0ls=/) + [Git (implementation)](https://gemustudio.visualstudio.com/_git/CatchTheFlow)
         - [ZycieNaKodach.pl | Mateusz Nowak | Table Soccer Tournaments system](https://miro.com/app/board/o9J_lOEebqI=/?moveToWidget=3074457356075616433&cot=14) + [GitHub (implementation)](https://github.com/MateuszNaKodach/CodersCamp2020.Project.FullStack-Node-React.TableSoccerTournaments/tree/develop/backend)
