@@ -91,9 +91,9 @@ Whiteboards and everything else with can help you lead Event Modeling workshop.
       - [Event Modeling](https://draft.io/example/event-modeling)
 - [oNote](https://www.onote.com/)
 - [Modellution (beta)](https://www.modellution.com/)
-- [prooph BOARD](https://prooph-board.com/)
-  - Examples:
-    - [Event Modeling | Hotel example](https://free.prooph-board.com/inspectio/board/fa333058-226b-424c-b48a-8663c44fb0ea)
+- [prooph board
+ ](https://prooph-board.com/) - Hassle-free Agentic Engineering with Event Modeling
+  - [Animal Shelter Reference Model](https://flow.prooph-board.com/workspaces/6a1e495d-a382-425c-a440-0503b2dea707/577e6648-bc16-4cf9-85a0-359ba95b0f39)
 - [Cratis Screenplay](https://github.com/Cratis/Screenplay) - Text-based language for event models (commands, events, read models and Given/When/Then specifications) in `.play` files
   - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=cratis.screenplay) - Renders the model as an event-model board
   - [Cratis Studio (beta)](https://cratis.studio) - Collaborative event-modeling platform
